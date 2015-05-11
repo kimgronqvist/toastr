@@ -31,6 +31,7 @@
                 options: {},
                 subscribe: subscribe,
                 success: success,
+                notify: notify,
                 version: '2.1.0',
                 warning: warning
             };
